@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 35px;
+  color: purple;
+}
+
+h2{
+  font-family: fantasy;
+  font-size: 30px;
+  }
+
+body {
+  background-color: #ffff99;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+  margin: 50px
+}
+
+p {
+  font-family:fantasy;
+  font-size: 30px;
+}
+
+ul {
+  font-family: fantasy;
+  font-style: oblique;
+  font-weight: bold;
+  margin: 50px;
+}
+
+li {
+  padding: 30px;
+}
+
+.important {
+  color: blue;
+}
+
+.important1 {
+  color: red;
+}
+
+img {
+  float: center;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color:#ff99cc ;
+}
+
+.eg-box-model{
+  margin: 5px;
+  border: 2px solid green;
+  padding: 2px;
+  background-color: #ccff99;
+}
